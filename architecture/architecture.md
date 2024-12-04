@@ -10,7 +10,7 @@
 
 
 ## Synchroon
-Fetching posts, comments and reviews.
+Fetching linked posts, comments and reviews from the database
 
 ## Asynchroon
 Adding comments or reviews to existing posts.
