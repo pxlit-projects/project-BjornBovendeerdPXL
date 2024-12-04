@@ -10,7 +10,7 @@
 
 
 ## Synchroon
-Het ophalen van posts, comments en reviews.
+Fetching posts, comments and reviews.
 
 ## Asynchroon
-Het plaatsen van reviews en comments op bestaande posts.
+Adding comments or reviews to existing posts.
