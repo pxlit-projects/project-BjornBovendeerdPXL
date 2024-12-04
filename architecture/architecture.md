@@ -9,4 +9,8 @@
 [link](https://github.com/pxlit-projects/project-BjornBovendeerdPXL/blob/main/architecture/architectuurdiagram.drawio.pdf)
 
 
-Het aanmaken van posts, comments en reviews gebeurt asynchroon, de andere onderlinge communicatie gebeurt synchroon.
+## Synchroon
+Het ophalen van posts, comments en reviews.
+
+## Asynchroon
+Het plaatsen van reviews en comments op bestaande posts.
